@@ -1,0 +1,14 @@
+﻿.clear {
+  clear: both;
+}
+#content {
+  width: 100%;
+}
+#left {
+  float: left;
+  margin-right: 30px;
+  width: 300px;
+}
+#right {
+  width: 100%;
+}
