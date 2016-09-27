@@ -27,7 +27,7 @@ and open the template in the editor.
 
             <?php
             include_once ('db.php');
-
+ 
             if (isset($_POST['add'])) {
                 $author = $_POST['title'];
                 $name = $_POST['author'];
